@@ -1,8 +1,6 @@
-<div>
-  <h1 align="center">Hi 👋, I'm jegan</h1>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s">
-<h3 align="center">fsd</h3>
-<div/>
+<h1 align="center">Hi 👋, I'm jegan</h1>
+<h3 align="center">Full Stack Developer</h3>
+
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 📫 How to reach me **jegan.mech001@gmail.com**
@@ -18,4 +16,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeganfsd&show_icons=true&locale=en" alt="jeganfsd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeganfsd&" alt="jeganfsd" /></p>
-
