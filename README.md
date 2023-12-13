@@ -1,5 +1,4 @@
-<h1 align="center">Hi! I'm jegan<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s" height="400px, width400px>,well come all</h1>
-
+<h1 align="center">Hi! I'm jegan<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s" height="400px, width400px>,well come to all</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Full Stack Developer**
