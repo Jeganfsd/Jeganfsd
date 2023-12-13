@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm jegan</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+- 🔭 I’m currently learning **Full Stack Developer**
+
 - 🌱 I’m currently learning **Frontend**
 
 - 💬 Ask me about **"Frontend"**
