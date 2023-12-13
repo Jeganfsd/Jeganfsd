@@ -1,7 +1,9 @@
-<h1 align="center">Hi! I'm jegan<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s" height400px width400px>,<br>well come to all<h1/>
+<h1 align="center">Hi 👋, I'm jegan</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack Developer**
+- 🌱 I’m currently learning **Frontend**
+
+- 💬 Ask me about **"Frontend"**
 
 - 📫 How to reach me **jegan.mech001@gmail.com**
 
