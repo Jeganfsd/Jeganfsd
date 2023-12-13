@@ -2,6 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s" height1000px width1000px>
+
 - 🔭 I’m currently learning **Full Stack Developer**
 
 - 🌱 I’m currently learning **Frontend**
