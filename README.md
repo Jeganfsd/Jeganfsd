@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm jegan</h1>
+<div>
+  <h1 align="center">Hi 👋, I'm jegan</h1>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s">
 <h3 align="center">fsd</h3>
-
+<div/>
 - 🌱 I’m currently learning **Full Stack Developer**
 
 - 📫 How to reach me **jegan.mech001@gmail.com**
