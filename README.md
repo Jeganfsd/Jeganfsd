@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm jegan</h1><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s" height="50px, width50px>well come all<h1/>
+<h1 align="center">Hi! I'm jegan</h1><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjv8k9FpJH5AvquxbVyd06B5UludsXYeHuTLTGllucw&s" height="200px, width 200px>well come all<h1/>
 
 <h3 align="center">Full Stack Developer</h3>
 
