@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 💬 Ask me about **"Frontend"**
+- 💬 Ask me about **"js,html,css"**
 
 - 📫 How to reach me **jegan.mech001@gmail.com**
 
